@@ -23,13 +23,14 @@ git clone https://github.com/themewagon/materially-free-react-admin-template.git
 ```
 yarn
 
-or npm i
+or, npm i
 ```
 
 4. Run project
 
 ```
 yarn start
+or, npm run start 
 ```
 
 ## Author
