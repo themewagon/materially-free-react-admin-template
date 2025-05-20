@@ -6,19 +6,27 @@
 
 ## Getting Started
 
-1. Clone from Github
+1. Prerequisites:
+
+```
+node.js
+```
+
+2. Clone from Github
 
 ```
 git clone https://github.com/themewagon/materially-free-react-admin-template.git
 ```
 
-2. Install packages
+3. Install dependencies
 
 ```
 yarn
+
+or npm i
 ```
 
-3. Run project
+4. Run project
 
 ```
 yarn start
