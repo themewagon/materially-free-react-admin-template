@@ -124,10 +124,6 @@ export default {
           type: 'item',
           url: 'https://codedthemes.gitbook.io/materially-react-material-documentation/',
           icon: icons['HelpOutlineOutlinedIcon'],
-          chip: {
-            label: 'Help?',
-            color: 'primary'
-          },
           external: true,
           target: true
         }

@@ -21,7 +21,7 @@ const NavCard = () => {
           <Button
             component={Link}
             target="_blank"
-            href="https://codedthemes.com/item/materially-reactjs-admin-dashboard/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium"
+            href="#"
             variant="contained"
             color="primary"
             size="small"
